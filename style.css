@@ -4889,6 +4889,9 @@ header{
             padding-inline: 12%;
         }
         
+        .loyal {
+            padding-block-end: 0px;
+        }
         .loyal .loyal3 {
             display: flex;
             justify-content: space-between;
