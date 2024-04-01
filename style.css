@@ -4835,7 +4835,7 @@ header{
             background-image: url(https://www.zohowebstatic.com/sites/zweb/images/crm/zcrm-analytics_bg.svg);
             background-repeat: no-repeat;
             background-position: bottom;
-            padding-inline: 6.5%;
+            padding-inline: 7.5%;
         }
         .offer3 .team img {
             width: 380px;
@@ -4961,6 +4961,11 @@ header{
         .help {
             background-color: #333333;
             padding-inline: 25px;
+        }
+        .help1 .aa {
+            display: flex;
+            padding: 80px 50px 0px 15px;
+            justify-content: space-between;
         }
 
     }
